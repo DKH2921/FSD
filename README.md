@@ -8,5 +8,5 @@
 源代码中不包含许可证，也没有版权声明。
 本开源项目基于 CC BY-NC-SA 4.0 许可证 进行授权!
 
-© Copyright FlightFLY All Rights Reserved
+© Copyright FlightFLY天空模拟飞行平台 All Rights Reserved
 
