@@ -1,0 +1,22 @@
+20-04-121 11:25:41 : Booting server
+20-04-121 11:25:41 FSD: Reading certificates from 'cert.txt'
+20-04-121 11:25:41 FSD: Booting port 6809 (client interface)
+20-04-121 11:25:41 FSD: Booting port 3011 (server interface)
+20-04-121 11:25:41 FSD: Booting port 3010 (system management interface)
+20-04-121 11:25:41 FSD: No 'allowfrom' found, allowing everybody on the server port
+20-04-121 11:25:41 FSD: We are up
+20-04-121 11:25:42 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+20-04-121 11:25:42 FSD: Reading certificates from 'cert.txt'
+20-04-121 11:26:22 FSD: Connection accepted from 127.0.0.1 on client interface
+20-04-121 11:26:23 FSD: client from 127.0.0.1 removed from client interface:closed on command
+20-04-121 11:27:10 : Booting server
+20-04-121 11:27:10 FSD: Reading certificates from 'cert.txt'
+20-04-121 11:27:10 FSD: Booting port 6809 (client interface)
+20-04-121 11:27:10 FSD: Booting port 3011 (server interface)
+20-04-121 11:27:10 FSD: Booting port 3010 (system management interface)
+20-04-121 11:27:10 FSD: No 'allowfrom' found, allowing everybody on the server port
+20-04-121 11:27:10 FSD: We are up
+20-04-121 11:27:11 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+20-04-121 11:27:11 FSD: Reading certificates from 'cert.txt'
+20-04-121 11:27:15 FSD: Connection accepted from 127.0.0.1 on client interface
+20-04-121 11:36:26 FSD: client from 127.0.0.1 removed from client interface:closed on command
